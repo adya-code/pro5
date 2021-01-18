@@ -1,0 +1,26 @@
+#me {
+    width: 250px;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(to right, #ffff1c, #00c3ff);
+    background: linear-gradient(to right, #ffff1c, #00c3ff);
+    ;
+}
+
+.links {
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cursive;
+
+    font-size: 20px;
+
+    }
